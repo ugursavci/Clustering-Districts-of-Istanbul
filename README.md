@@ -1,7 +1,10 @@
 
 # Clustering Districts of Istanbul
 
-In this project We will analyze district of Istanbul and cluster them based on foursquare venues data and general information.
+In this project We will cluster district of Istanbul using general information and location data.
+We will utilize K-Means clustering algorithm to group boroughs with their similarity and get insight from it.
+
+
 
 ## Contents
 1. [Notebook](https://github.com/ugursavci/Clustering-Districts-of-Istanbul/blob/main/Clustering%20of%20Districts.ipynb)
@@ -21,5 +24,7 @@ population and other advantages
 ### Exploratory Data Analysis
 
 ![image1](https://github.com/ugursavci/Clustering-Districts-of-Istanbul/blob/main/images/1.png)
+
+### Clustering Our Data
 
 ![image2](https://github.com/ugursavci/Clustering-Districts-of-Istanbul/blob/main/images/2.png)
