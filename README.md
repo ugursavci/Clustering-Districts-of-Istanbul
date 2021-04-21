@@ -19,4 +19,5 @@ their restaurants first in Istanbul,since Istanbul is the biggest city in Turkey
 population and other advantages
 
 ### Exploratory Data Analysis
-![image1]()
+
+![image1](https://github.com/ugursavci/Clustering-Districts-of-Istanbul/blob/main/images/1.png)
