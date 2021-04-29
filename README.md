@@ -13,10 +13,10 @@ We will utilize K-Means clustering algorithm to group boroughs with their simila
 
 ### INTRODUCTION
 
- Istanbul is a big city with huge population and great places to live. But with many options to open a 
-restaurant, how we can determine the best places to open a restaurant in exactly true location that is 
-supported with data science
-In this project, Our stakeholders want to open a restaurant but they do not have any idea where to
+  Istanbul is a big city with huge population and great places to live. But with many options to open a 
+restaurant, how we can determine the best places  in exactly true location that is 
+supported with data science ?
+  In this project, Our stakeholders aim  to open a restaurant but they do not have any idea where to
 open it . Their restaurant is a fast-food chain that is really famous over the world. They want to open
 their restaurants first in Istanbul,since Istanbul is the biggest city in Turkey with their capacity and
 population and other advantages
