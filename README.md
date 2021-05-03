@@ -23,7 +23,7 @@ population and other advantages
 
 ### Exploratory Data Analysis
 
-![image1](https://github.com/ugursavci/Clustering-Districts-of-Istanbul/blob/main/images/1.png)
+<img src=https://github.com/ugursavci/Clustering-Districts-of-Istanbul/blob/main/images/1.png width = '500',height = '250'</img>
 
 ### Clustering Our Data
 
