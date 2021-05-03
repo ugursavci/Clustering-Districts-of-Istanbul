@@ -27,4 +27,4 @@ population and other advantages
 
 ### Clustering Our Data
 
-<img src=https://github.com/ugursavci/Clustering-Districts-of-Istanbul/blob/main/images/2.png alt='Resim2' width= '500' height ='400' align = 'right'>
+<img src=https://github.com/ugursavci/Clustering-Districts-of-Istanbul/blob/main/images/2.png alt='Resim2' width= '500' height ='400' align = 'middle'>
