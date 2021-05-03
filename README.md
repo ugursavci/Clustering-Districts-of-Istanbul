@@ -21,11 +21,10 @@ open it . Their restaurant is a fast-food chain that is really famous over the w
 their restaurants first in Istanbul,since Istanbul is the biggest city in Turkey with their capacity and
 population and other advantages
 
-|### Exploratory Data Analysis| ### Clustering Our Data|
-|<img src=https://github.com/ugursavci/Clustering-Districts-of-Istanbul/blob/main/images/1.png alt = 'Resim1' width = '500' height = '400'>|<img src=https://github.com/ugursavci/Clustering-Districts-of-Istanbul/blob/main/images/2.png alt='Resim2' width= '500' height ='400' align = 'middle'>|
+### Exploratory Data Analysis 
+<img src=https://github.com/ugursavci/Clustering-Districts-of-Istanbul/blob/main/images/1.png alt = 'Resim1' width = '500' height = '400'>
 
+### Clustering Our Data
 
-
-
-
+<img src=https://github.com/ugursavci/Clustering-Districts-of-Istanbul/blob/main/images/2.png alt='Resim2' width= '500' height ='400' align = 'middle'>
 
