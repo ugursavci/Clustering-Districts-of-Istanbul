@@ -1,8 +1,14 @@
 
 # Clustering Districts of Istanbul
+<p float="left">
+  <img src="https://github.com/ugursavci/Clustering-Districts-of-Istanbul/blob/main/images/2.png" width="450" height ='400' />
+  .
+  <img src="https://github.com/ugursavci/Clustering-Districts-of-Istanbul/blob/main/images/1.png" width="450" height ='400' /> 
+</p>
 
-In this project We will cluster district of Istanbul using general information and location data.
+  In this project We will cluster district of Istanbul using general information and location data.
 We will utilize K-Means clustering algorithm to group boroughs with their similarity and get insight from it.
+
 
 
 
@@ -13,13 +19,14 @@ We will utilize K-Means clustering algorithm to group boroughs with their simila
 
 ### INTRODUCTION
 
-  Istanbul is a big city with huge population and great places to live. But with many options to open a 
+ <p>     Istanbul is a big city with huge population and great places to live. But with many options to open a 
 restaurant, how we can determine the best places  in exactly true location that is 
-supported with data science ?
-  In this project, Our stakeholders aim  to open a restaurant but they do not have any idea where to
+supported with data science ? </p>
+
+ <p> In this project, Our stakeholders aim  to open a restaurant but they do not have any idea where to
 open it . Their restaurant is a fast-food chain that is really famous over the world. They want to open
 their restaurants first in Istanbul,since Istanbul is the biggest city in Turkey with their capacity and
-population and other advantages
+population and other advantages </p>
 
 ### Exploratory Data Analysis 
 <img src=https://github.com/ugursavci/Clustering-Districts-of-Istanbul/blob/main/images/1.png alt = 'Resim1' width = '500' height = '400'>
@@ -27,4 +34,3 @@ population and other advantages
 ### Clustering Our Data
 
 <img src=https://github.com/ugursavci/Clustering-Districts-of-Istanbul/blob/main/images/2.png alt='Resim2' width= '500' height ='400' align = 'middle'>
-
