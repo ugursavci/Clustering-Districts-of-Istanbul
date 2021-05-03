@@ -23,7 +23,7 @@ We will utilize K-Means clustering algorithm to group boroughs with their simila
 restaurant, how we can determine the best places  in exactly true location that is 
 supported with data science ? </p>
 
- <p> In this project, Our stakeholders aim  to open a restaurant but they do not have any idea where to
+ <p> In this project, Our stakeholders consider to open a restaurant but they do not have any idea where to
 open it . Their restaurant is a fast-food chain that is really famous over the world. They want to open
 their restaurants first in Istanbul,since Istanbul is the biggest city in Turkey with their capacity and
 population and other advantages </p>
