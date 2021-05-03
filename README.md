@@ -1,9 +1,9 @@
 
 # Clustering Districts of Istanbul
 <p float="left">
-  <img src="https://github.com/ugursavci/Clustering-Districts-of-Istanbul/blob/main/images/2.png" width="450" height ='400' />
+  <img src="https://github.com/ugursavci/Clustering-Districts-of-Istanbul/blob/main/images/2.png" width="400" height ='400' />
   .
-  <img src="https://github.com/ugursavci/Clustering-Districts-of-Istanbul/blob/main/images/1.png" width="450" height ='400' /> 
+  <img src="https://github.com/ugursavci/Clustering-Districts-of-Istanbul/blob/main/images/1.png" width="400" height ='400' /> 
 </p>
 
   In this project We will cluster district of Istanbul using general information and location data.
